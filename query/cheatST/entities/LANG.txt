@@ -1,0 +1,15 @@
+530	 DateUtils SOLRSearchService DateFormatUtils
+624	 SystemUtils ToStringBuilder ToStringStyle
+710	 StringEscapeUtils NumericEntityUnescaper unescapeHtml4
+744	 StringUtils
+857	 CharSequenceTranslator StringEscapeUtils
+862	 CharSequenceTranslator StringEscapeUtils
+879	 LocaleStringConverterTest StringToLocaleConverter
+917	 ExtendedMessageFormat
+948	 ExtendedMessageFormat TestExtendedMessageFormat
+954	 FastDateFormat FastDateParser Pattern
+1061	 FastDateParser FastDateFormat
+1116	 DateUtils DateUtilsTest
+1133	 FastDateParser_TimeZoneStrategyTest
+1276	 StrBuilder StrMatcher
+1285	 FastDateParser FastDateFormat FormatCache

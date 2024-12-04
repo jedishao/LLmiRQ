@@ -1,0 +1,7 @@
+248	 WildFlySwarmPlugin DependencyResolver JBossModulesClassLoader
+249	 ShrinkWrapProcessor DependencyTree WARArchive
+394	 WildFlySwarmPlugin MavenEmbeddedEnvironment ProcessController
+479	 JAXRSArchive WebArchive Archive
+516	 FractionDetector FractionList FractionDependencyScanner
+522	 WildFlySwarmPluginConfiguration ProcessConfiguration JVMArgumentsHandler
+681	 HealthCheckRegistry HealthCheckService SecurityConstraintUtil

@@ -1,0 +1,18 @@
+337	 - undertow-handlers conf - org wildfly swarm:jaxrs - pom xml
+485	 JacksonJaxbJsonProvider
+551	 DefaultCacheContainer EmbeddedCacheManager
+553	 LoggingFraction PeriodicSizeRotatingFileHandler
+564	 Wildfly Swarm Wildfly 10
+571	 Arquillian RunWith
+575	 swarmtool
+586	 monitor fraction IllegalStateException
+587	 WildFly Swarm JMS ConnectionFactory
+588	 Application ApplicationPath
+635	 ExplodedImporter main
+662	 N/A
+669	 maven-war-plugin wildfly-swarm-plugin
+691	 Archive as ParseError
+751	 WildFly Swarm Maven Plugin swarm http port swarm https port swarm https certificate generate
+793	 WildFly Swarm module xml resource-root artifact JBOSS_MODULEPATH
+863	 org wildfly swarm Swarm container start() container stop() org wildfly swarm bootstrap Main
+879	 org eclipse aether resolution ArtifactResolutionException

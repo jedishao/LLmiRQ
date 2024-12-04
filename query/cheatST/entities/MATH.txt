@@ -1,0 +1,8 @@
+204	 BrentSolver
+293	 SimplexSolver SimplexTableau Array2DRowRealMatrix
+294	 RandomDataImpl MathUtils MathRuntimeException
+519	 GaussianFitter, LevenbergMarquardtOptimizer, Gaussian
+588	 MeanTest UnivariateStatisticAbstractTest TestUtils
+645	 DemoBugOpenMapRealVector OpenMapRealVector MathRuntimeException
+1148	 MonotoneChain AbstractConvexHullGenerator2D
+1295	 NonLinearConjugateGradientOptimizer BracketFinder

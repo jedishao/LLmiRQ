@@ -1,0 +1,8 @@
+199	 Field, AccessibleObject, AnnotationBasedPersistentProperty, BasicPersistentEntity, MappingMongoConverter, MongoTemplate
+260	 MappingMongoConverter MongoTemplate BasicPersistentEntity
+398	 DBCollection MongoTemplate PolicyDb Activator
+410	 TestConverterThatFails MongoTemplate JSON MyNested
+462	 ReflectionEntityInstantiator MappingMongoConverter BasicPersistentEntity MongoTemplate InstituteRepository ReaperApp
+806	 User Aggregation PropertyReferenceException
+887	 SourceRepository MyEntity MyClass ParameterizedTypeInformation
+1360	 BasicBSONEncoder

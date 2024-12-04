@@ -1,0 +1,6 @@
+6	 JLineShellComponent SimpleParser HelpCommand
+56	 ReflectionUtils StringUtils BeanUtils
+98	 CommandLineParser OptionHandler JLineShellComponent
+146	 Shell FlashCommand LineReader
+153	 DateCommand LocalizationContext UserPreferences
+158	 SimpleParser JLineShellComponent CommandParser

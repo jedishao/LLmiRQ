@@ -1,0 +1,2 @@
+310	 OAuth2ClientHttpRequestFactory RestTemplate
+388	 OAuth2RestTemplate ResourceOwnerPasswordResourceDetails AuthenticationScheme OAuth2AccessTokenSupport ClientCredentialsAccessTokenProvider AccessTokenProviderChain DefaultResponseErrorHandler

@@ -1,0 +1,33 @@
+42	 Fraction, FractionFormat.parse
+282	 ChiSquaredDistributionImpl, cumulativeProbability
+322	 ContinuousOutputModel EmbeddedRungeKuttaIntegrator EventState FirstOrderIntegrator GraggBulirschStoerIntegrator HighamHall54Integrator SwitchingFunction SwitchingFunctionsHandler
+341	 PolynomialFunction, testfirstDerivativeComparisonFullPower
+343	 UnivariateRealFunction BrentSolver
+344	 UnivariateRealFunction BrentSolver
+347	 UnivariateRealFunction BrentSolver
+358	 FirstOrderDifferentialEquations, computeDerivatives, DormandPrince853Integrator, integrate
+373	 StatUtils, sum
+405	 LevenbergMarquardtOptimizer VectorialPointValuePair
+408	 GLSMultipleLinearRegressionTest
+411	 MultipleRegression, newSampleData
+418	 Percentile
+465	 SingularValueDecompositionImpl, getRank, Array2DRowRealMatrix
+619	 globalFitInfo
+640	 AbstractRandomGenerator, nextInt(), nextLong()
+699	 inverseCumulativeDistribution
+704	 Variance.evaluate(), Mean
+718	 BinomialDistributionImpl, inverseCumulativeProbability, cumulativeProbability, checkedCumulativeProbability
+723	 BitStreamGenerators, MersenneTwister, Well generators, setSeed, nextGaussian
+781	 SimplexSolver, optimize
+813	 - `org.apache.commons.math3.optimization.linear.SimplexSolver` - `org.apache.commons.math3.optimization.linear.LinearObjectiveFunction` - `org.apache.commons.math3.optimization.linear.LinearConstraint` - `org.apache.commons.math3.optimization.linear.PointValuePair` - `org.apache.commons.math3.optimization.GoalType` - `org.apache.commons.math3.optimization.linear.SimplexSolver.optimize`
+848	 EigenDecomposition SchurTransformer RealMatrix MatrixUtils
+899	 MersenneTwister
+1051	 EigenDecomposition, MaxCountExceededException
+1059	 Math, FastMath
+1111	 org.apache.commons.math3.fitting
+1112	 Percentile, P Square algorithm
+1116	 LevenbergMarquardtOptimizer, getWeight, MultivariateVectorOptimizer
+1174	 PolygonsSet
+1197	 KolmogorovSmirnovTest
+1310	 KolmogorovSmirnovTest ExactP
+1356	 HypergeometricDistribution, probability

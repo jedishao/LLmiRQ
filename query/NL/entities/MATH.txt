@@ -1,0 +1,6 @@
+214	 FixedStepIntegrator RungeKuttaIntegrator AbstractIntegrator
+272	 SimplexSolver LinearObjectiveFunction PivotSelectionRule
+406	 LevenbergMarquardtOptimizer WeightedObservedPoints AbstractCurveFitter
+409	 OLSMultipleLinearRegression GLSMultipleLinearRegression AbstractMultipleLinearRegression
+790	 MannWhitneyUTest NaturalRanking FastMath
+1192	 DescriptiveStatistics StatisticalSummaryValues SummaryStatistics

@@ -1,0 +1,21 @@
+109	 MessageListenerContainer, ShutdownSignalException
+121	 SimpleMessageListenerContainer
+170	 com rabbitmq client impl LongStringHelper ByteArrayLongString, spring-integration-amqp
+190	 RabbitTemplate, convertAndSend, TransactionManager
+223	 SimpleListenerContainer, doStart
+233	 rabbit-connection-factory, PublisherCallbackChannelImpl
+274	 RabbitTemplate, ListenerContainer
+290	 rabbit:queue, util:map, rabbit:queue-arguments
+331	 java lang Error, OutOfMemoryError
+340	 SimpleMessageListenerContainer, AmqpInboundChannelAdapter
+355	 ErrorHandler, onMessage, verify
+385	 AmqpRejectAndDontRequeueException, ListenerExecutionFailedException
+432	 MessagePropertiesConverter, convertLongString
+479	 JtaTransactionManager, RabbitTemplate, AbstractPlatformTransactionManager, RabbitResourceSynchronization
+508	 declareQueue
+516	 RabbitListenerAnnotationBeanProcessor, StringUtils hasText, UUID randomUUID, resolveExpressionAsBoolean
+556	 SMLC, isActive
+562	 SimpleMessageListenerContainer
+648	 handleCancel, basicCancel, handleCancelOk
+656	 RabbitListener, QueueBinding, Queue, Exchange, Argument, QueueBuilder durable
+661	 SMLC

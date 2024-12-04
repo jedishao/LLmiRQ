@@ -1,0 +1,38 @@
+48	 findEntityById, application/x-spring-data-compact+json
+50	 RepositoryRestMvcConfiguration, EntityToResourceConverter, convert
+83	 EnableWebMvc, RequestHandlerMapping, RepositoryRestHandlerMapping
+107	 CustomerRepository, findByUserId
+247	 AbstractRepositoryRestController, resultToResources, PersistentEntity
+250	 Product, ProductAttribute
+253	 AssociationOmittingSerializerModifier
+307	 RepositoryController
+316	 UriStringDeserializer
+328	 EnableMongoAuditing, RepositoryRestResource, AuditorAware
+384	 CustomerRepository, findByLastname
+411	 RepositoryRestConfiguration, setBaseUri
+423	 UserController, UserService, delete
+461	 JsonIgnore
+490	 Controller, RequestMapping, MediaType TEXT_HTML_VALUE
+500	 RepositoryPropertyReferenceController, doWithReferencedProperty, PersistentEntity, PersistentProperty, PersistentPropertyAccessor
+502	 TagRepository, findAllByNameContainingIgnoreCaseAndOrganisationOrderByNameAsc
+523	 Collector, Artifact
+581	 BasicPersistentEntity, Etag
+597	 AlpsController, Spring 4 2
+599	 RelationshipRepository, findByCustomer1
+662	 PetOwner, Pet, Cat
+683	 ALPS profile, Jackson mapper
+690	 Spring Data REST, JSON Schema
+697	 ProjectionSerializer, Resource, PersonProjection, PersonRepository, TestController getProjection, TestController getProjections, TestProjection testProjection, TestProjection testProjectionSingleResource, TestProjection testProjectionViaSDR, TestProjection testProjectionViaSDRSingleResource
+716	 HttpMessageNotWritableException
+743	 HttpMessageNotWritableException, DispatcherServlet
+791	 PersonRepository, getUsername, findByUsername
+863	 Spring Boot, Spring Data Rest
+866	 RepositoryRestConfiguration, RepositoryRestConfigurer
+870	 CustomAcceptHeaderHttpServletRequest, getHeader(String), getHeaderValues(String)
+880	 JsonUnwrapped, Spring Data REST, Spring Boot
+925	 ResourceProcessor, PersonProjection, AddressProjection
+931	 User, Phone
+937	 SampleWithTransient
+938	 Outer, Inner
+956	 Parent, Child, Item, ParentRestIntegrationTest should_add_new_item
+958	 Spring Data Mongo, Spring Data Rest, PetProjectTest

@@ -1,0 +1,17 @@
+105	 ZipArchiveOutputStream ArchiveTest ArchiveStreamFactory
+169	 ZipFile TikaIndexerHardenerTest ZipContainerDetector AutoDetectParser Tika
+177	 TarArchiveInputStream TarUtils TarArchiveEntry
+178	 TarArchiveInputStream TarUtils TarArchiveEntry
+181	 TarArchiveInputStream TarUtils TarArchiveEntry
+197	 TarUtils TarArchiveEntry
+203	 TarArchiveOutputStream TarUtilities TileCacheSetExporter
+221	 CompressorStreamFactory ZipContainerDetector TikaResourceMetadataFactory XZCompressorInputStream
+241	 LZMA2OutputStream, LZMA2Decoder, SevenZOutputFile
+256	 LZMAInputStream Coders LZMADecoder SevenZFile
+262	 TarArchiveInputStream TarArchiveEntry TarUtils
+278	 TarArchiveInputStream, TarArchiveEntry, TarUtils
+286	 Un7z, SevenZFile, LZMADecoder
+287	 PackageParser SevenZFile CompositeParser AutoDetectParser Tika
+297	 TCommonCompressZipFileConstructor ZipFile
+314	 TarArchiveInputStream TarArchiveEntry
+321	 X7875_NewUnix ZipContainerDetector Tika ZipFile ExtraFieldUtils ZipArchiveEntry

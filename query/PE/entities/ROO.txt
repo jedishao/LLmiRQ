@@ -1,0 +1,69 @@
+23	 RooShell, parseCommand
+86	 JavaParserAnnotationMetadata, FieldMetadata
+95	 Foo, Bar_Roo_ToString
+122	 RooConfigurable, Foo
+142	 SomeClass, RooWebScaffold
+266	 Roo, NotNull
+316	 ConcreteEntity, AbstractEntity
+321	 AbstractEntity, test integration
+334	 DefaultItdTypeDetailsBuilder, addImplementsType
+376	 Employee, EmpDetails
+379	 Shell, tab completion
+513	 Weblog, Lob
+666	 entity, --class, --permitReservedWords
+803	 Active generator, FelixDispatchQueue
+839	 JarContent, ProcessManager
+857	 create jspx
+1027	 finder add
+1056	 SubCategory
+1086	 web mvc install view, application properties
+1135	 EntityNameFormatter, ApplicationPropertiesGenerator
+1258	 project, dependency add, interface
+1415	 org springframework roo addon creator simple
+1421	 DBRE, _Roo_DbManaged
+1479	 com ibm as400 access AS400JDBCDriver, java lang IllegalArgumentException
+1652	 Ttable, Column
+1686	 MyEntity, MyEntity_Roo_JavaBean aj
+1714	 PaginationController, resetPageNumber, fetchEntities
+1836	 propFileOperations addPropertyIfNotExists
+1840	 ProduttoreController, ArticoloController
+2030	 IllegalArgumentException
+2050	 AddonOperationsImpl, PhysicalTypeMetadata
+2085	 addon create i18n, --flagGraphic
+2104	 FooController, RequestMapping, RequestMethod POST, get, post, index
+2208	 Answer: *_Roo_JavaBean aj
+2218	 index-template jspx
+2265	 StuffController TestController
+2270	 Roo, ScriptCommand
+2327	 org apache jasper JasperException
+2357	 Roo_Controller aj, Roo_DataOnDemand aj, Roo_IntegrationTest aj, findAllPolicys, findAllMotorPolicys
+2371	 RooDbManaged
+2381	 OperationalEnvironment, AperationalEnvironment, Cloud, CloudProvider, getNewTransient
+2404	 ImportRegistrationResolver, isAdditionLegal
+2409	 Composite, Leaf, show jspx
+2450	 mvcViewFactoryCreator, tilesViewResolver
+2467	 project, persistence setup, entity, controller all
+2473	 clinic roo, NotNull, SizeMin
+2545	 clinic roo, verifyText
+2550	 LoginController, RequestMapping, index
+2570	 recursiveAntMatch
+2588	 TypeLocationService, processTypesWithAnnotation, fileMonitorService isDirty, MemberFindingUtils getAnnotationOfType
+2603	 Practice, Risk
+2707	 MutableFile, getWhatsDirty
+2727	 TypeLocationService
+2751	 project, persistence setup
+2786	 JavaBean ITD, governor fields
+2863	 Spring Roo, applicationContext-mongo xml
+2867	 spring-roo-1 2 0 BUILD-SNAPSHOT, roo bat
+2929	 SWOTWeakness, SWOTWeakness findSWOTWeakness, Tactic, Tactic findTactic
+2932	 Entity, findEntity, getId, setId, getVersion, setVersion
+2941	 mvc scaffold, JspTagException
+2948	 Answer: CartOrder, CartOrderRepository
+2957	 field:checkbox
+2978	 project, module create, jpa setup, entity jpa, field string, module focus, web mvc setup, web mvc scaffold
+3106	 Spring Roo, JavaParser
+3160	 JsfManagedBeanMetadata, MethodMetadataBuilder, setJavadoc
+3281	 Entity aj, DbManaged aj
+3283	 RooJpaActiveRecord, database reverse engineer
+3315	 InstantiationException, IllegalAccessException, ArrayList
+3447	 CommentStructure, JavadocComment, MethodMetadataBuilder, addComment, setCommentStructure, addMethod, build

@@ -1,0 +1,7 @@
+3542	 BeanDefinitionParser BeanDefinition AbstractBeanDefinition
+6366	 XmlBeanDefinitionReader ClassPathResource ApplicationContext
+6369	 MethodValidationPostProcessor WebDataBinder HandlerMethodArgumentResolver
+6385	 ClassPathScanningCandidateComponentProvider BeanDefinitionRegistry ApplicationContext
+6921	 FormTag DataBinder WebDataBinder
+7040	 FormTag SelectTag DataBinder
+7062	 Valid ConstraintValidator ValidationGroups

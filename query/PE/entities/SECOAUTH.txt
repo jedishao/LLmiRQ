@@ -1,0 +1,8 @@
+74	 OAuth module
+216	 OAuth2ClientContextFilter, AccessTokenProviderChain, removeAccessToken, refreshAccessToken
+313	 RefreshTokenGranter, DefaultTokenService, refreshAccessToken, createAccessToken, OAuth2Authentication, OAuth2RefreshToken
+320	 InsufficientScopeException, oauthAuthenticationEntryPoint, oauthAccessDeniedHandler, oauthWebExpressionHandler
+340	 RandomValueTokenServices
+359	 TokenEndpoint
+383	 OAuthRestTemplate, HMAC_SHA1SignatureMethod
+415	 TokenEndpoint

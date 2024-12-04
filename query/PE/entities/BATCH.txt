@@ -1,0 +1,65 @@
+252	 HibernateFailureJob
+454	 JobExecution, StepExecution, isAllowedStartIfComplete
+491	 stepOperations, chunkOperations, RepeatException
+548	 ResourceItemReader, BufferedItemReader, IOException
+552	 MBeanServer
+579	 FlatFileIteReader
+616	 ItemOrientedStep, doExecute
+651	 BufferedReader, batchUpdateWriter, mark
+661	 jobExecution stop, StepListener afterStep, ItemOrientedStep
+751	 StepExecution, ExecutionContext
+833	 TransactionAttributes, rollbackOn
+857	 ExecutionContext, transactional collection wrappers
+897	 JobInstance, JobExecution
+921	 ExecutionContext
+1004	 job, step, tasklet, StepExecution
+1005	 AbstractStep, SimpleStepFactoryBean
+1007	 Classes and methods that may be relevant to the bug’s root cause:  - StringUtils hasText - JobRepository - Step (namespace defaulting mechanism)
+1075	 TaskletStep
+1111	 ChunkListener, WriteListener
+1122	 StaxEventWriter, startDocument, endDocument
+1128	 FlatFileItemReader
+1147	 FaultTolerantStepFactoryBean, ItemProcessor, getFilterCount
+1159	 StepExecution, HibernateTemplate flush, FaultTolerantStepFactoryBean
+1160	 Batch xsd, stepType, flowStepType
+1172	 RangeArrayPropertyEditor
+1196	 JdbcJobExecutionDao
+1198	 StepExecution, afterStep
+1201	 AfterProcess, StepListenerMetaData, ItemProcessListener
+1284	 Partition Step, BatchStatus
+1291	 Namespace parser, ConnectivityInspector
+1301	 FlatFileItemReader, doRead, doOpen, DefaultLineMapper, DelimitedLineTokenizer, ItemFieldSetMapper, FlatFileItemWriter, SearchResultsAggregator
+1304	 StepExecution
+1326	 Job, Step, allowStartIfComplete
+1354	 ItemWriter
+1383	 - CommandStepListener - onSkipInProcess - initialize - ValidatingItemProcessor
+1392	 ChunkElementParser, parse
+1453	 OraclePagingQueryProvider
+1502	 HibernatePagingItemReader, createQuery, statefulSession
+1503	 JobExecution, StepExecution, writer
+1539	 CompositeItemWriter, ItemStreamInterface, WriterNotOpenException
+1567	 JobRepository, ExecutionContext
+1572	 org springframework transaction UnexpectedRollbackException, org springframework batch core step item SimpleRetryExceptionHandler, BinaryExceptionClassifier
+1574	 TaskExecutor, factory bean
+1616	 Spring Batch, partitioner
+1619	 Batch Servlet, SqlException
+1633	 InnerBeanStepScopedTest Hello
+1639	 OraclePagingQueryProvider, generateJumpToItemQuery
+1656	 ItemProcessor
+1739	 IllegalArgumentException
+1743	 PartitionHandler
+1745	 XSD, step, flow, beans:bean, beans:property
+1753	 FlatFileItemWriter, shouldDeleteIfEmpty
+1775	 FlatFileItemReader, PassThroughLineMapper, DefaultLineMapper, DelimitedLineTokenizer, UserFieldSetMapper
+1783	 ChunkListener, beforeChunk
+1804	 RetryInWriterTest, RetryInProcessorTest
+1822	 TaskletStep, ChunkTransactionCallback, doInTransaction, setTerminateOnly
+1908	 PartitionStep, StepExecutionContext
+1920	 AMQPItemReader, AMQPItemWriter
+1924	 job, step, tasklet, chunk, reader, writer, listener
+1946	 HibernateItemWrite
+1959	 FlatFileItemWriter, OutputState position
+2040	 Db2PagingQueryProvider, generateJumpToItemQuery, buildSortKeySelect
+2153	 StepSynchronizationManager, java util HashMap, java util Hashtable
+2205	 MethodInvokingTaskletAdapter, afterPropertiesSet
+2242	 JobExecution, OptimisticLockingFailureException, SimpleJobService stop

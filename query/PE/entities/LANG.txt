@@ -1,0 +1,11 @@
+617	 StringEscapeUtils.escapeXML(), Entities.escape()
+728	 StringEscapeUtils.escapeXml
+754	 A, B, ReflectionToStringBuilder, MyStyle, toString, appendDetail
+814	 MethodUtils ConstructorUtils
+978	 FastDateFormat_ParserTest, FastDateParserTest.testParses, validateSdfFormatFdpParseEquality
+1000	 DateFormatUtils, ISO_DATETIME_TIME_ZONE_FORMAT
+1152	 FastDateFormat, SimpleDateFormat, Date, getInstance, format, setLenient
+1189	 MutableInt MutableLong MutableFloat MutableDouble
+1202	 parseDateStrictly, parseDateWithLeniency
+1216	 NumberUtils, isNumber
+1245	 java.util.Calendar, java.lang.StringBuffer, applyRules

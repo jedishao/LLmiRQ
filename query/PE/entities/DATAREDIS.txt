@@ -1,0 +1,10 @@
+75	 java util Properties, propertyNames
+226	 LettuceConnTransIntTest, execute
+286	 RedisTemplate expire, Jedis pexpire, Jedis pexpireAt
+333	 JedisScriptReturnConverter convert, SafeEncoder encode
+356	 RedisTemplate, EVALSHA, EVAL
+415	 Thread, currentThread, interrupt
+431	 RedisConnection, RedisCache, RedisTemplate, Cacheable, CachePut, CacheEvict
+489	 Foo, HashMap, write, converter read
+491	 KeyspaceEventMessageListener, ConnectionFactory
+510	 CacheValueAccessor, convertToBytesIfNecessary, deserializeIfNecessary

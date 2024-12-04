@@ -1,0 +1,5 @@
+42	 JobConfigurationController JobService SimpleJobService
+44	 JobExecutionController JobExecutionResourceAssembler BatchAdminController
+52	 JobParametersConverter JobParameters JobLauncher
+78	 JobInstanceController JobRepository JobExplorer
+87	 JdbcPagingItemReader AbstractPagingItemReader MySqlPagingQueryProvider

@@ -1,0 +1,48 @@
+64	 SomeEntityRepository, JpaRepository, findBySomeProperty
+86	 Page, findAll, Specification, Pageable, IncorrectResultSizeDataAccessException
+121	 Tree, findByParent
+137	 deleteAll, findAll, delete, em remove, em contains, em merge
+169	 TreeEntity, getAncestors, findAncestors
+226	 Query, IllegalArgumentException
+252	 PagingAndSortingRepository, Pageable, Sort, Query
+277	 JpaSpecificationExecutor, findAll
+327	 ItemRepository, findByStatus, PageRequest, Sort, ColumnExpressionSort
+330	 EnableJpaRepositories, Repository
+342	 Media, getJukeGenres, countGenres
+346	 PreApprovalRequest, PaceUser
+359	 DataObjectRepository, findOne, findOneAndLock
+362	 Example, findByOneOrTwo
+373	 NullPointerException
+388	 EntityManager, Alternative
+396	 CriteriaQueryImpl, CriteriaQueryCompiler
+397	 PayrollParametersRepository, findByPriceScheduleAndProcessPeriodAndCalculationType
+401	 Spring Data JPA, log4jdbc
+420	 Query, findWithScalarSelect
+424	 StringQuery, QueryUtils detectAlias, PageRequest
+427	 QueryDsl, Hibernate
+429	 Query, InvalidDataAccessApiUsageException
+442	 CreateIfNotFoundQueryLookupStrategy, NamedQuery, em createNamedQuery
+492	 CrudRepository, findAll
+494	 org springframework beans factory aspectj, org springframework beans factory parsing BeanDefinitionParsingException
+505	 EntityWithBlobField, getBytes
+510	 spring-data-jpa, querydsl, hibernate
+561	 ChildEntity
+567	 MyEntity, JpaRepository save
+606	 AvatarEntity, findByCategoryInOrderByCategoryAsc
+608	 JpaPersistentEntityImpl, JpaPersistentProperty, isEntity, getActualType
+681	 newAdhocStoredProcedureQuery
+758	 RoleRepository, findByPermission
+763	 Specification, Root
+798	 Query, Movement
+820	 SimpleJpaRepository::save, AbstractEntity
+830	 NotContaining
+851	 Spring Data JPA, Repository, existsByUsername
+858	 User, Role, findByRolesNameContaining
+903	 streamQuery, listQuery, collect, assertEquals
+913	 FoobarEntity, FoobarRepository, getDateOfFirstRecord1, getDateOfFirstRecord2
+951	 UserPrincipalRepository, findUserForAuthentication
+960	 Query, cercaProdotto, Pageable, new PageRequest, Sort, new Sort
+974	 Document, findByParentIsNull
+984	 Spring Data JPA, JPA projection
+1023	 PushNotificationRepository, findAllAndStream, PushNotificationFlusherService, flushPushNotificationQueue
+1024	 org joda time LocalDate

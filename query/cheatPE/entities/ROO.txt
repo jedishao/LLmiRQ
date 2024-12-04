@@ -1,0 +1,31 @@
+19	 MemberFindingUtils Choice AnnotatedJavaType JavaType
+205	 JavaType equals
+343	 PollingFileMonitorService MonitoringRequest
+618	 AutoPopulationUtils RooEntity Pizza
+707	 Dependency
+710	 ItdSourceFileComposer UserRepository UserRepositoryImpl Repository RepositoryImpl
+741	 JavaType User metadata _User
+794	 PollingFileMonitorService
+831	 OperationImpl XmlUtils TransformerFactory Transformer
+838	 CommandMarker StaticFieldConverter ComponentContext ServiceEvent ServiceListener ServiceReference ChannelType Activator
+864	 JavaPackage
+898	 JavaPackage JavaType
+969	 AbstractItdMetadataProvider governorPhysicalTypeMetadata
+1022	 JavaType AbstractItdMetadataProvider
+1156	 Activator
+1172	 JspViewManager
+1404	 HintOperationsImpl ResourceBundle
+1555	 Roo Undo functionality perform tests roo security setup UpdateFile
+1718	 FileConverter
+1763	 ShellStatus
+1988	 Dependency JavaSymbolName
+2041	 ItdTypeDetailsBuilder DeclaredFieldAnnotationDetails MemberFindingUtils
+2481	 MemberDetailsScannerImpl PollingFileMonitorService
+2531	 AbstractShell
+2690	 ProjectOperations Dependency
+2722	 AbstractIdentifiableAnnotatedJavaStructureBuilder AnnotationMetadataBuilders
+2746	 PgpServiceImpl Collections emptyList spring_roo_pgp bpg
+2747	 AbstractMemberHoldingTypeDetailsBuilder AbstractMemberHoldingTypeDetailsBuilderTest
+2754	 HttpPgpUrlStreamHandlerServiceImpl
+2899	 Dependency
+2904	 Parser Completions STS console integration

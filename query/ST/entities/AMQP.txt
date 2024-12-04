@@ -1,0 +1,2 @@
+164	 ServletConfigurationTests RabbitAdmin
+502	 RabbitAdmin, RabbitTemplate, BlockingQueueConsumer, CachingConnectionFactory

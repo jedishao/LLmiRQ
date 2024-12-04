@@ -1,0 +1,6 @@
+187	 BatchPartitionTests, testAppSubmission
+278	 JavaConfig, boot properties
+279	 YarnAppmaster, YarnContainer
+356	 SplittableCompressionCodec
+385	 StaticEventingAppmaster, onContainerCompleted, notifyCompleted
+409	 store writer, filenamingstrategies, org apache hadoop ipc RemoteException, org apache hadoop hdfs protocol AlreadyBeingCreatedException

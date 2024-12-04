@@ -1,0 +1,4 @@
+301	 MessageDrivenBean31MetaData, JBossMessageDrivenBean31MetaData, JBossSessionBean31MetaData, SessionBean31MetaData
+315	 JBossMetaData, getInterceptors
+317	 JBossMetaData, getInterceptors, mybean, org.myapp.MyInterceptor
+348	 WebApp24ValidationUnitTestCase

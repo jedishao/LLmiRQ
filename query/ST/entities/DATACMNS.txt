@@ -1,0 +1,5 @@
+154	 UserRepository JpaQueryLookupStrategy PartTreeJpaQuery
+157	 EntityRepository CarRepository
+160	 DeleteOnlyRepository RepositoryFactorySupport JpaQueryLookupStrategy PartTree PropertyPath
+358	 Assert PagedResources PagedResourcesAssembler
+943	 SimpleJpaRepository JpaMetamodelEntityInformation

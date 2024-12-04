@@ -1,0 +1,6 @@
+50	 BlockJUnit4ClassRunner ParentRunner TestDataOnDemand
+1105	 BeanELResolver, Pays
+1770	 HashMap AbstractItdMetadataProvider
+2443	 GwtOperationsImpl MavenProjectMetadataProvider PollingFileMonitorService DefaultFileManager MavenOperationsImpl MavenCommands
+2626	 GenericConversionService, StandardTypeConverter
+2909	 GAV Pom PomFactoryImpl PomManagementServiceImpl AbstractProjectOperations DbreModelServiceImpl DbreDatabaseListenerImpl PollingFileMonitorService DefaultProcessManager ProcessManagerHostedExecutionStrategy JLineShell

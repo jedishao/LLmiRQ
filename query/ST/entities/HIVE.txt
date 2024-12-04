@@ -1,0 +1,48 @@
+883	 Path Partition BaseSemanticAnalyzer SemanticAnalyzer Driver CliDriver
+1308	 GenericUDFUtils, GenericUDFBridge, ExprNodeGenericFuncDesc, TypeCheckProcFactory, DefaultRuleDispatcher, DefaultGraphWalker, SemanticAnalyzer, BaseSemanticAnalyzer, Driver, CliDriver
+1409	 ReflectionUtils, SequenceFileRecordReader, CombineHiveRecordReader, Hadoop20Shims, MapTask, Child
+1859	 HiveResultSet HiveStatement HiveJdbcClient
+1861	 DynamicSerDe HiveResultSet HiveStatement HiveJdbcClient
+2856	 TestCliDriver
+3423	 ExecMapper FileSinkOperator
+5218	 HiveMetaStore JDOPersistenceManager ObjectStore SQLServerException ThriftHiveMetastore
+5863	 VectorMapOperator, ExecMapper, VectorFileSinkOperator, OrcOutputFormat, StandardStructObjectInspector
+6414	 ParquetRecordReader, JavaShortObjectInspector, GenericUDAFMin, GroupByOperator
+6477	 ExecMapper, MapOperator, GroupByOperator, JavaByteObjectInspector, GenericUDAFMin
+6631	 ExprNodeFieldEvaluator SelectOperator TableScanOperator MapOperator ExecMapper
+6953	 CompactorTest TestInitiator TestWorker TestCleaner
+7620	 HadoopThriftAuthBridge20S MetaStoreUtils HiveMetaStore
+8154	 HiveAuthFactory ThriftBinaryCLIService SaslQOP
+8870	 ExprNodeFieldEvaluator MapRedTask
+9624	 MapJoinOperator CommonJoinOperator CommonMergeJoinOperator ReduceRecordSource
+9655	 MapOperator ReduceSinkOperator ExprNodeColumnEvaluator
+9718	 ExecMapper MapOperator ReduceSinkOperator SelectOperator TableScanOperator
+9832	 TezProcessor ReduceRecordProcessor MapJoinOperator Operator
+10244	 TezProcessor ReduceRecordSource VectorGroupKeyHelper VectorGroupByOperator
+10356	 TezProcessor, ReduceRecordSource, VectorGroupKeyHelper, VectorGroupByOperator
+10677	 Utilities ColumnStatsTask Shell RawLocalFileSystem ChecksumFileSystem FileSystem
+11069	 ColumnStatsTask Utilities ExecDriver MapRedTask Task TaskRunner ClientNamenodeProtocolTranslatorPB DFSClient DistributedFileSystem
+12030	 HiveIOExceptionHandlerChain HiveIOExceptionHandlerUtil HiveInputFormat TezGroupedSplitsInputFormat AcidUtils OrcInputFormat
+12208	 VectorMapJoinInnerLongOperator VectorMapJoinInnerGenerateResultOperator
+12365	 JobSubmitter Path Job
+12444	 OrcInputFormat AcidUtils
+12584	 HashTableLoader MapJoinBytesTableContainer HybridHashTableContainer MapJoinOperator
+12735	 VectorSelectOperator, VectorUDFAdaptor, IfExprStringGroupColumnStringGroupColumn
+12743	 RCFileInputFormat ReflectionSerializerFactory Kryo DefaultClassResolver
+12864	 CommonTree
+12992	 CustomPartitionEdge TezTask VertexImpl Edge
+13082	 LocalJobRunner ReflectionUtils MapTask StandardStructObjectInspector ObjectInspectorFactory CommonJoinOperator MapJoinOperator Operator
+13083	 DecimalTreeWriter SerializationUtils TreeReaderFactory RecordReaderImpl
+13114	 FetchOperator ParquetRecordReaderWrapper FilterCompat SchemaCompatibilityValidator ValidTypeMap
+13185	 ReaderImp LoadSemanticAnalyzer SemanticException
+13361	 FetchOperator CliDriver
+13423	 LazyBinaryUtils LazyBinaryStruct
+13621	 StatsUtils
+13743	 FSDirEncryptionZoneOp, FSNamesystem, NameNodeRpcServer, ClientNamenodeProtocolServerSideTranslatorPB, ProtobufRpcEngine, RPC, Server, Client, Hive
+13767	 HiveSQLException RexUtil FilterJoinRule HiveFilterJoinRule CalcitePlanner
+14076	 TezProcessor ReduceRecordSource VectorizedBatchUtil VectorizedRowBatchCtx
+14244	 TezProcessor, MapRecordSource, VectorMapOperator, ReduceSinkOperator, VectorReduceSinkOperator, TableScanOperator
+14355	 VectorMapOperator, LongColumnVector, BytesColumnVector, BatchToRowReader
+14436	 TypeInfoUtils TypeInfoFactory GenMRSkewJoinProcessor SkewJoinProcFactory SkewJoinResolver PhysicalOptimizer MapReduceCompiler TaskCompiler SemanticAnalyzer CalcitePlanner Driver CliDriver
+14556	 LoadSemanticAnalyzer SemanticException
+14773	 ColumnStatisticsData StatsUtils AnnotateWithStatistics

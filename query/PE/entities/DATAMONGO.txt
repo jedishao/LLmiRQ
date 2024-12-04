@@ -1,0 +1,84 @@
+309	 MyPojo, MongoTemplate
+322	 save, findById
+329	 A, HashMap, BasicDBObject, converter write
+331	 spring-mongo-1 0 xsd, com mongodb WriteConcern
+336	 GeoSpatialTest, GeoNear
+346	 MongoTemplate, remove, MongoOperations
+358	 Document, Item, Attribute, setKey, setValue
+367	 ParentDoc, ChildDoc
+376	 SpringDataMongodbSerializer, visit
+385	 TestRepository, MongoRepository, TestEntity
+387	 GeoPage, GeoResults
+392	 MappingMongoConverter, writeInternal, addCustomTypeIfNecessary, convertToMongoType, removeTypeInfoRecursively
+404	 Update, pull
+407	 TestThatWorks, TestThatFails, mongoOps
+422	 UUIDToBinaryConverter, BasicBSONDecoder, putUUID
+425	 Date, repository query
+458	 Collections emptySet, HashSet
+459	 save, Match, Goal, Player, Forward, Defender, mongoTemplate findAndModify, query, Update set, match findGoalById, match getGoal, matchRepository save
+467	 User, QUser id eq
+480	 insertDBObject, insertDBObjectList, saveDBObject, doInsert, doUpdate
+481	 Account, findByUsernameAndConfirmedIsTrue
+505	 Entity, Property, EntityRepository, findByPropertyIn, ConvertingIterator
+523	 AbstractMongoConfiguration, afterMappingMongoConverterCreation, SimpleTypeInformationMapper
+539	 mongoOperations save, mongoOperations remove, mongoOperations findAll, Item
+540	 MongoTemplate, upsert, findOne
+562	 PersonWithVersionPropertyOfTypeInteger, template save
+571	 CrudRepository, findOne, save
+583	 DBCursor, hasNext
+592	 MappingInstantiationException, PersistenceConstructor, Field, Value
+602	 QProfileDocument, profileDocument id in, profileRepository findAll
+603	 PersonRepository, findByLocationNear, Distance, Metrics, GeoResults, getAverageDistance
+647	 Answer, findByQuestionIdOrderByScoreDesc
+702	 Model, @Field, query.fields().include(), mongoTemplate
+717	 MongoMappingContext, BasicMongoPersistentEntity, setApplicationContext, createPersistentEntity, AbstractMongoConfiguration, mongoMappingContext, initialize
+721	 ParentClass, ChildClass, MongoTemplate, updateFirst
+745	 MongoRepository, Query, findBySnapshotIdAndDefects
+807	 IUser, User, UserWrapper, findAndModify
+828	 MongoTemplate, OptimisticLockingFailureException, VersionedPerson, Update
+862	 Query, Update
+868	 findAndModify, Version
+880	 Template, Message
+888	 Sort, find
+897	 MongoTemplate findAndModify, DbRef
+909	 CompoundIndexes
+914	 LazyLoading proxies, equals, hashcode
+928	 BeanDefinitionParsingException
+938	 Criteria, Box, within
+952	 Query, findByEmail
+969	 User, QUser user id in
+970	 populateIdIfNecessary, BasicDBObject, DBObject, MongoPersistentProperty, ConversionService, BeanWrapper, getIdQueryFor, Query, MongoPersistentEntity
+987	 Parent, Child, mongoTemplate save, mongoTemplate findOne
+1001	 Child, Parent, mongoTemplate save, mongoTemplate findOne, mongoTemplate findById
+1027	 Books, Author
+1030	 UserRepository, findSummaryByLastnameLike, SingleEntityExecution
+1050	 SimpleMongoRepository findById, A, B
+1058	 Model, Foo, ModelDao, FooDao, setMapOfFoos, save, findOne
+1072	 Query, findAllByKeyValue
+1078	 StringBasedMongoQuery, findByUserIds
+1088	 Query, findByEmbeddedIn2
+1120	 Page, Pageable, findByActiveIsTrue, findByUserId
+1123	 findByTypeAndLocationNear, NearQuery, geoNear
+1126	 Item, ItemRepository, findByIdIn, findByTypeIn, testPageableIdIn
+1166	 mongoTemplate, com.mongodb.Mongo
+1204	 ObjectPath, ObjectPathItem, ObjectId equals
+1210	 findAndModify, save, addToSet, forEach
+1232	 IgnoreCase, MongoDB
+1236	 MongoOperations, findAndModify, updateFirst
+1250	 MyPersistantObject, CustomConversions, mongoTemplate updateMulti, mongoTemplate save, mongoTemplate findOne, query, update
+1263	 Book, AbstractProduct, ProductWrapper, Catalog
+1288	 org springframework data mongodb core query Update, inc
+1289	 save method
+1290	 SampleDomainObject, findBySampleData, findBySampleDateWithAnnotation
+1368	 MongoTemplate, findOneByIdAndNameIgnoreCase
+1394	 Book, Library, BookService, QBook, BooleanExpression, bookRepository findAll, libraryRepository findById, bookRepository findByLibraryId
+1406	 MongoTemplate, Computer, Monitor, queryMapper, getMappedObject
+1416	 org springframework data mongodb core convert CustomConversions
+1423	 Video, VideoMetadata, ThumbnailType, Query query, Criteria where, Update set, mongoOps updateFirst, mongoOps getConverter, converter write
+1436	 CustomConversions, NumberToNumberConverterFactory
+1453	 GeoJsonPoint, BasicDBObject
+1485	 MongodbSerializer, visit, ConnectionTypeReadConverter, convert, ConnectionTypeWriteConverter
+1498	 MongoMappingContext, CustomConversions, PersistentEntityJackson2Module, AbstractMappingContext
+1513	 BaseEntity, DBObject, MongoEventListener, onBeforeSave, insertDBObject, insertDBObjectList
+1534	 mongoTemplate, BulkOperations, insert
+1565	 MyCollection, findByApplicationIdAndName

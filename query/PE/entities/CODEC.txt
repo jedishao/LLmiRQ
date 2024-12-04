@@ -1,0 +1,2 @@
+68	 Base64, isBase64
+84	 DoubleMetaphone, handleG, handleL, conditionL0, contains

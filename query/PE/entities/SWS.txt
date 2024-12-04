@@ -1,0 +1,17 @@
+150	 AbstractWebServiceConnection, ServletInputStream, MessageFactory createMessage
+164	 Spring-WS, MessageEndpoint
+188	 WssSoapFaultException, Spring WS framework
+218	 SaajSoap11Body
+266	 AxiomContentHandler, endDocument
+345	 SOAPMessage, getSOAPPart, saveChanges
+457	 AxiomSoapMessageFactory, AxiomSoapEnvelope getBody
+459	 ResourceUtils, toURI
+485	 SoapFaultMappingExceptionResolver, faultStringOrReasonLocale
+487	 SoapFaultMappingExceptionResolver, faultStringOrReasonLocale
+594	 SchemaCollection
+640	 Jaxp13XPathTemplate, evaluateAsBoolean, evaluateAsDouble
+698	 EndpointExceptionResolver, <sws:annotation-driven/>
+733	 marshalSendAndReceive
+777	 SoapFaultMappingExceptionResolver
+793	 SoapFaultAnnotationExceptionResolver
+924	 SaajSoapMessageFactory, parseMimeHeaders, URLConnection getHeaderField

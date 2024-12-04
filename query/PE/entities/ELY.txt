@@ -1,0 +1,5 @@
+627	 Elytron SSLContext
+654	 SSLSessionContext setSessionCacheSize setSessionTimeout
+692	 LegacyPropertiesSecurityRealm
+757	 String toUpperCase String toLowerCase
+808	 andThenOp with withCredential createRaw

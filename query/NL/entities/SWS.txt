@@ -1,0 +1,6 @@
+105	 HttpClient RestTemplate HttpMessageConverter
+128	 SoapFaultMessageResolver AbstractSoapMessage WebServiceMessageReceiverHandlerAdapter
+156	 WebServiceTemplate Jaxb2Marshaller MtomEnabledUnmarshaller
+293	 Wss4jSecurityInterceptor SoapMessage MessageDispatcher
+353	 Wsdl4jDefinition DynamicWsdl11Definition AbstractWsdl11Definition
+393	 SaajSoapMessageFactory AbstractSoapMessageFactory WebServiceTemplate

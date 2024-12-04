@@ -1,0 +1,4 @@
+813	 SingleColumnJdbcKeyGeneratorIntegrationTests TransactionSynchronizationManager DataSourceTransactionManager TransactionalTestExecutionListener
+950	 ItemOrientedStep DataSourceTransactionManager SQLException
+1240	 FlatFileItemReader SimpleChunkProvider TaskletStep
+1774	 RepeatTemplate TaskletStep SimpleStepHandler JobFlowExecutor StepState SimpleFlow FlowJob SimpleJobLauncher CommandLineJobRunner

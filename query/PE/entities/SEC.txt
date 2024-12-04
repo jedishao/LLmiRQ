@@ -1,0 +1,72 @@
+832	 NamingEnumeration, DirContextOperations, ContextExecutor, executeWithContext, search, hasMoreElements, IncorrectResultSizeDataAccessException, SearchResult, next, logger debug, StringBuffer, DirContextAdapter, DistinguishedName
+943	 DefaultSpringSecurityContextSource, URI getPath, URI getRawPath
+1133	 authenticationDetailsSource, form-login
+1143	 AbstractProcessingFilter, setSessionRegistry, SessionUtils startNewSessionIfRequired
+1145	 DefaultSpringSecurityContextSource, LdapAuthenticationProvider, BindAuthenticator, FilterBasedLdapUserSearch, DefaultLdapAuthoritiesPopulator
+1281	 RememberMeService, PersistentTokenBasedRememberMeServices, RememberMeAuthenticationProvider
+1286	 Acl, getObjectIdentity, toString
+1333	 IllegalArgumentException
+1357	 ClassUtils getDefaultClassLoader, parserContext getReaderContext getBeanClassLoader
+1363	 ProviderManager
+1365	 AuthenticationSuccessHandler
+1367	 WebSecurityExpressionHandler
+1369	 Classes and methods relevant to the bug’s root cause:  - Classes:    - `BeanComponentDefinition` - Methods:   - `pc getReaderContext registerWithGeneratedName(provider)`   - `pc registerBeanComponent(new BeanComponentDefinition(provider, id))`   - `registerBeanDefinition`   - `pc getReaderContext generateBeanName(provider)`
+1388	 UsernamePasswordAuthenticationFilter, LoginUrlAuthenticationEntryPoint
+1396	 HttpSessionContextIntegrationFilter, SessionFixationProtectionFilter, RememberMeProcessingFilter, startNewSessionIfRequired, HttpServletRequest, HttpServletResponse, SPRING_SECURITY_CONTEXT_KEY, SecurityContextHolder getContext getAuthentication, OnRedirectUpdateSessionResponseWrapper
+1404	 org springframework security config annotation web builders HttpSecurity, org springframework beans factory BeanDefinitionStoreException
+1412	 ShallowEtagHeaderFilter, springSecurityFilterChain
+1462	 SessionFixationProtectionFilter, request getSession, request getAttribute, request isRequestedSessionIdValid, chain doFilter
+1540	 ChannelProcessingFilter, securityMetadataSource
+1561	 HttpSecurityContextRepository, SaveToSessionResponseWrapper saveContext
+1583	 PreAuthorize, hasAuthority, hasRole, intercept-url, IS_AUTHENTICATED_ANONYMOUSLY, permitAll
+1584	 HttpServletRequest, getServletPath, getPathInfo
+1592	 - spring-security-cas - Cas20ProxyReceivingTicketValidationFilter - HttpBasedServiceCredentialsAuthenticationHandler - HttpClient - AbstractTicketValidationFilter
+1603	 rememberMeServices, form-login
+1608	 FirewalledRequest, reset
+1628	 AuthenticationSuccessHandler, HttpSession, RememberMeServices
+1653	 org springframework security userDetailsServiceFactory
+1674	 LoginUrlAuthenticationEntryPoint, buildRedirectUrlToLoginPage
+1705	 OpenIDAuthenticationFilter
+1752	 TextEncryptor, Encryptors queryableText, encrypt, decrypt, AesBytesEncryptor
+1764	 LdapShaPasswordEncoding, MD4PasswordEncoder
+1770	 SessionRegistry, refreshLastRequest, SessionInformation
+1772	 SimpleUrlLogoutSuccessHandler, URLDecoder decode, isUseReferer
+1790	 AbstractAuthenticationTargetUrlRequestHandler determineTargetUrl, DefaultRedirectStrategy
+1850	 ConcurrentSessionFilter, LogoutFilter, SecurityContextLogoutHandler, TokenBasedRememberMeServices
+1885	 FilterChainProxy, MyCustomAuthenticationProvider <init>
+1893	 PortMapperImpl, httpsPortMappings
+1900	 GrantedAuthorityImpl, SimpleGrantedAuthority, UserDetails, Collection equals
+1948	 AbstractUserDetailsAuthenticationProvider, UserDao
+2005	 SecurityContextPersistenceFilter doFilter, HttpServletResponse flushBuffer, HttpServletResponse getWriter close, HttpServletResponse getWriter flush, HttpServletResponse getOutputStream close, HttpServletResponse getOutputStream flush
+2025	 HttpSessionSecurityContextRepository, SecurityContextPersistenceFilter, SaveToSessionResponseWrapper
+2055	 SaveContextServletOutputStream, flush, close
+2057	 ConcurrentSessionFilter
+2072	 SecurityContextHolder, getContext, getAuthentication, getAuthorities
+2136	 TestEntityPermission, DefaultPermissionEvaluator, isAllowed, checkPermissionByDomainObject
+2198	 HttpSecurity, BasicAuthenticationEntryPoint, configure, httpBasic, exceptionHandling, authenticationEntryPoint, authorizeUrls
+2215	 SecurityConfig, registerAuthentication, authenticationManagerBean, configure
+2223	 FirewallRequest, reset
+2280	 SessionFixationConfigurer, changeSessionId, none
+2296	 HttpServletRequest, login
+2328	 hasAuthority, hasAnyAuthority, hasRole, hasAnyRole
+2376	 CsrfAuthenticationStrategy, SessionManagementFilter
+2422	 HttpSecurity, session-management, invalid-session-url, sessionAuthenticationStrategy
+2455	 AbstractAuthenticationProcessingFilter, setFilterProcessesUrl
+2457	 setFilterProcessesUrl
+2543	 SecurityConfig, configure(AuthenticationManagerBuilder auth), configure(HttpSecurity http)
+2571	 UserDetailsService
+2595	 EnableGlobalMethodSecurity, SecurityConfig, AspectJMethodSecurityInterceptor, GlobalMethodSecurityBeanDefinitionParser
+2615	 accesscontrollist, hasPermission, authorize
+2688	 HttpServletRequest
+2719	 mvc perform, get, with, user, roles, andExpect, authenticated, withRoles
+2727	 springVersion compareTo, logger warn
+2793	 WebSecurityConfigurerAdapter, configureGlobal
+2815	 WebSecurityConfigurerAdapter, EnableGlobalMethodSecurity
+2913	 ChangeSessionIdAuthenticationStrategy, AuthenticationStrategy
+2919	 DefaultLoginGeneratingFilter, BeanDefinitionRegistryPostProcessor, postProcessBeanDefinitionRegistry, DefaultSecurityFilterChain, DefaultLoginPageGeneratingFilter
+2935	 Spring Security, Mock MVC, Authentication, TestSecurityContext clearContext
+2941	 MockMvcBuilders, springSecurity, defaultRequest, perform, with, roles, authenticated, status
+2948	 org springframework web context ContextLoaderListener, org springframework beans factory parsing BeanDefinitionParsingException
+3019	 BasicAuthenticationFilter, RememberMeServices, setRememberMeServices, NullRememberMeServices
+3020	 HttpServletRequest isUserInRole
+3135	 HttpSecurity, authorizeRequests, antMatchers, authenticated, hasAnyRole, httpBasic, csrf, disable, userDetailsService

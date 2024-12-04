@@ -1,0 +1,15 @@
+496	 Leases HMaster HbaseRPC
+2018	 HConnectionManager, HTable, MemStoreFlusher, HRegion
+7385	 HRegion Store StoreFlusher DFSClient
+12716	 RegionSplitter UniformSplit
+12791	 HRegion, SplitRequest, ShutdownHook, RpcRetryingCaller
+13601	 HLogSplitter SplitLogWorker RemoteBlockReader2 SelectChannelConnector
+13635	 HMaster RegionStates HRegionServer RpcClientImpl FailedServerException
+13960	 HConnectionImplementation, BlockingRpcChannelImplementation, RpcClient, RegionServerCallable, MultiServerCallable
+14155	 StoreFileScanner HFileReaderV2 HFileBlock ChecksumUtil
+14178	 HRegionServer HRegion KeyValueHeap StoreScanner IdLock
+14545	 TestMasterFailover MiniHBaseCluster HBaseCluster
+15104	 IntegrationTestAcidGuarantees HRegionServer RSRpcServices RpcExecutor OpenRegionHandler CompressionTest HRegion
+15672	 TestVisibilityLabelsWithDeletes TimeRange ImmutableSegment DefaultMemStore HRegion FlushTableSubprocedure
+16270	 DefaultMemStore HStore HRegion RSRpcServices RpcServer RpcExecutor
+16754	 CompactSplitThread StoreFileInfo DistributedFileSystem

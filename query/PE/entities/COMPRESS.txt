@@ -1,0 +1,15 @@
+73	 ZipArchiveInputStream
+75	 ZipArchiveInputStream, ExtraFieldUtils.parse
+107	 ArchiveStreamFactory
+113	 TarArchiveEntry, parseTarHeader
+131	 recvDecodingTables
+152	 ZiparchiveInputStream ZiparchiveOutputStream
+176	 ArchiveInputStream, getNextEntry, ArchiveEntry, ArchiveStreamFactory, ZipArchiveInputStream
+205	 CompressorInputStream, getStreamFor
+209	 ArchiveStreamFactory, createArchiveInputStream
+228	 ZipFile
+229	 Apache commons-compress
+236	 CPIO, IllegalArgumentException
+265	 TarArchiveEntry
+273	 org.apache.commons.compress.archivers.zip.UnicodeCommentExtraField, getLocalFileDataLength
+336	 TarUtils, parseName
